@@ -135,7 +135,6 @@ The project follows a complete analytics workflow:
 - 📍 Cluster Visualization
 - 💡 Business Recommendations
 - 📄 Business Insights Report
-
 - # 📊 Project Visualizations
 
 ## Customer Segments
