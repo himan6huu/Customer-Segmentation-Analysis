@@ -60,7 +60,7 @@ The dataset is available inside:
 ```text
 data/raw/
 ```
-----------------------------------------------------------------------------------------------------
+
 ---
 
 # 📁 Repository Structure
@@ -135,4 +135,19 @@ The project follows a complete analytics workflow:
 - 📍 Cluster Visualization
 - 💡 Business Recommendations
 - 📄 Business Insights Report
-- 
+
+- # 📊 Project Visualizations
+
+## Customer Segments
+
+<p align="center">
+<img src="images/charts/customer_segments.png" width="700">
+</p>
+
+---
+
+## Elbow Method
+
+<p align="center">
+<img src="images/charts/elbow_method.png" width="700">
+</p>
