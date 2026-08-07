@@ -337,14 +337,14 @@ See the [LICENSE](LICENSE) file for more details.
 
 ## Himanshu Kumar
 
-**MCA Final Year Student**  
+
 **Aspiring Data Analyst | Python | SQL | Power BI | Machine Learning**
 
 📍 Bhubaneswar, Odisha, India
 
 [![GitHub](https://img.shields.io/badge/GitHub-himan6huu-181717?style=for-the-badge&logo=github)](https://github.com/himan6huu)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Himanshu%20Kumar-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/himanshu-kumar-a5241a355/)
+[![LinkedIn](https://www.linkedin.com/in/himanshu-kumar-analyst/)
 
 </div>
 
