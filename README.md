@@ -344,7 +344,7 @@ See the [LICENSE](LICENSE) file for more details.
 
 [![GitHub](https://img.shields.io/badge/GitHub-himan6huu-181717?style=for-the-badge&logo=github)](https://github.com/himan6huu)
 
-[![LinkedIn](https://www.linkedin.com/in/himanshu-kumar-analyst/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Himanshu%20Kumar-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/himanshu-kumar-analyst/)
 
 </div>
 
