@@ -321,15 +321,7 @@ This project can be further enhanced by implementing:
 - Automated machine learning pipeline
 - SQL database integration for real-time customer analysis
 
----
 
-# 📄 License
-
-This project is licensed under the **MIT License**.
-
-See the [LICENSE](LICENSE) file for more details.
-
----
 
 # 👨‍💻 Author
 
